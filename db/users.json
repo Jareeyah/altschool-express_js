@@ -1,0 +1,19 @@
+[
+  {
+    "usename": "Jareeyah",
+    "password": "alsing123",
+    "role": "user",
+  },
+
+  {
+    "usename": "Johnson",
+    "password": "jalinfeg456",
+    "role": "admin",
+  },
+
+  {
+    "username": "David",
+    "password": "david079",
+    "role": "normal"
+  }
+]

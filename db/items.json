@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Beenie",
+    "Price": 14000,
+    "Size": "Medium",
+    "id": 3
+  },
+  
+  {
+    "Name": "Shrug",
+    "Price": 8000,
+    "Size": "Large",
+    "id": 20
+  },
+
+  {
+    "Name": "Dress",
+    "Price": 35000,
+    "Size": "Small",
+    "id": 15
+  }
+]
